@@ -1,0 +1,61 @@
+body {
+  background: #140808;
+  text-align: center;
+  color: white;
+}
+
+.matrix {
+  margin-left: -120px;
+}
+
+.outmatrix8 {
+  margin-left: 100px;
+}
+
+#plus1 {
+  margin-left: 60px;
+  margin-top: -27px;
+}
+
+#B-mat {
+  margin-left: 120px;
+  margin-top: -46px;
+}
+
+.outB {
+  margin-left: 120px;
+}
+
+#C-mat1 {
+  margin-left: 240px;
+  margin-top: -55px;
+}
+
+#C-eq1 {
+  margin-left: 180px;
+  margin-top: 8px;
+}
+
+.outC1 {
+  margin-left: 240px;
+  margin-top: -27px;
+}
+
+#plus2 {
+  margin-left: 60px;
+  margin-top: -27px;
+}
+
+#F-mat2 {
+  margin-left: 130px;
+  margin-top: -62px;
+}
+
+.outF {
+  margin-left: 130px;
+}
+
+#F-eq1 {
+  margin-left: 200px;
+  margin-top: -35px;
+}

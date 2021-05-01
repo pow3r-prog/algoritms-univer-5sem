@@ -1,0 +1,10 @@
+body {
+  background: grey;
+  text-align: center;
+}
+
+#func {
+  background: white;
+  width: 250px;
+  margin: auto;
+}
