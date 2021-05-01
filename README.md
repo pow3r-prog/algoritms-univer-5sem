@@ -1,2 +1,2 @@
-# algoritms-univer-3
+# algoritms-univer-5sem
 i hate this shit
